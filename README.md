@@ -140,6 +140,25 @@ first empirical data connecting them.
 Researchers in computational social science, HCI, and AI governance are invited to
 criticize, replicate, or build on this pilot.
 
+## Citation
+
+The dataset used in this study is the Synthetic Socratic Debates corpus. Please cite
+it as:
+
+> Liu, J., Song, Y., Xiao, Y., Zheng, M., Tjuatja, L., Borg, J. S., Diab, M., & Sap, M. (2025).
+> *Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics.*
+> Empirical Methods in Natural Language Processing. [https://arxiv.org/abs/2506.12657](https://arxiv.org/abs/2506.12657)
+
+```bibtex
+@article{liu2025synthetic,
+  title={Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics},
+  author={Liu, Jiarui and Song, Yueqi and Xiao, Yunze and Zheng, Mingqian and Tjuatja, Lindia and Borg, Jana Schaich and Diab, Mona and Sap, Maarten},
+  publisher={Empirical Methods in Natural Language Processing},
+  url={https://arxiv.org/abs/2506.12657},
+  year={2025}
+}
+```
+
 ## AI Assistance Disclosure
 
 This study was conducted as a transparent human–AI collaboration, in line with the
